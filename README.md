@@ -147,7 +147,7 @@ numbers.
 A reminder about arithmetic and fractions:
 
 $`n = \frac{n}{1}`$
-
+<img src="https://latex.codecogs.com/gif.latex?O_t=\text { Onset event at time bin } t " /> 
 $`\frac{n}{d_1} + \frac{m}{d_2} = \frac{d_1m + d_2n}{d_1d_2}`$
 
 $`\frac{n}{d_1} \cdot \frac{m}{d_2} = \frac{nm}{d_1d_2}`$
