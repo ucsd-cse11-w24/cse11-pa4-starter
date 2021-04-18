@@ -13,10 +13,6 @@ classes. You can get the starter repository here:
 
 You will upload _several_ Java files for this assignment, detailed below.
 
-You will also complete a <a
-href="https://docs.google.com/forms/d/e/1FAIpQLSduhjWQ36oxoiZReUZfA8cQ2PngQhxZh3L6TsiobVA4Ho5oHQ/viewform">survey</a>
-on your experiences in the class the past two weeks.
-
 Different assignments in this course have different collaboration policies. On
 this assignment, you **cannot** share code publicly on Piazza or with any other
 students in the course. If you need to share code, ask in a private Piazza post
