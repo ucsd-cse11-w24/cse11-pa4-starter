@@ -146,8 +146,7 @@ numbers.
 
 A reminder about arithmetic and fractions:
 
-
-- ![equation](https://latex.codecogs.com/gif.latex?n%20%3D%20%5Cfrac%7Bn%7D%7B1%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20&plus;%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bd_1m%20&plus;%20d_2n%7D%7Bd_1d_2%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20%5Ccdot%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bnm%7D%7Bd_1d_2%7D)
+![equation](https://latex.codecogs.com/gif.latex?n%20%3D%20%5Cfrac%7Bn%7D%7B1%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20&plus;%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bd_1m%20&plus;%20d_2n%7D%7Bd_1d_2%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20%5Ccdot%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bnm%7D%7Bd_1d_2%7D)
 
 ### Exploration
 
