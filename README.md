@@ -1,10 +1,8 @@
----
-layout: page
-title: "UCSD CSE11 S20 – PA4"
-doodle: "/doodle.png"
----
+# CSE-11 Programming Assignment 4
+### Due Date: Wednesday, April 21, 11:59PM Pacific Time
 
-# Programming Assignment 4 – Interfaces
+## Learning Goals 
+– practice writing interfaces and classes
 
 This programming assignment will help you practice writing interfaces and
 classes. You can get the starter repository here:
@@ -13,6 +11,7 @@ classes. You can get the starter repository here:
 
 You will upload _several_ Java files for this assignment, detailed below.
 
+## Collaboration
 Different assignments in this course have different collaboration policies. On
 this assignment, you **cannot** share code publicly on Piazza or with any other
 students in the course. If you need to share code, ask in a private Piazza post
@@ -20,6 +19,12 @@ or in 1-on-1 hours. Still _do_ ask any public code questions about lecture
 code, quizzes that are past, or other conceptual questions, just no code from
 this PA.
 
+## Resubmission/Late Policy
+- We will not accept this PA late.
+- If you did not submit this PA or did poorly (<75%), you can fix your PA and resubmit it to the PA resubsmission assignment in Gradescope to earn a maximum of 75% the points.
+- If you scored higher than 75% on the origianl PA, we may grade the resubmission, but will not change your original grade.
+- The resubmission will be open for 2 weeks after the PA's original due date.
+- 
 ## Tweets
 
 <div class='sidenote'>A Twitter-specific pattern is writing a <a
