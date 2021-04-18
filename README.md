@@ -147,8 +147,7 @@ numbers.
 A reminder about arithmetic and fractions:
 
 
-<img src="https://www.codecogs.com/eqnedit.php?latex=n&space;=&space;\frac{n}{1}\\\\&space;\frac{n}{d_1}&space;&plus;&space;\frac{m}{d_2}&space;=&space;\frac{d_1m&space;&plus;&space;d_2n}{d_1d_2}\\\\&space;\frac{n}{d_1}&space;\cdot&space;\frac{m}{d_2}&space;=&space;\frac{nm}{d_1d_2}\\" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n&space;=&space;\frac{n}{1}\\\\&space;\frac{n}{d_1}&space;&plus;&space;\frac{m}{d_2}&space;=&space;\frac{d_1m&space;&plus;&space;d_2n}{d_1d_2}\\\\&space;\frac{n}{d_1}&space;\cdot&space;\frac{m}{d_2}&space;=&space;\frac{nm}{d_1d_2}\\" title="n = \frac{n}{1}\\\\ \frac{n}{d_1} + \frac{m}{d_2} = \frac{d_1m + d_2n}{d_1d_2}\\\\ \frac{n}{d_1} \cdot \frac{m}{d_2} = \frac{nm}{d_1d_2}" />
-
+- ![equation](https://latex.codecogs.com/gif.latex?n%20%3D%20%5Cfrac%7Bn%7D%7B1%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20&plus;%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bd_1m%20&plus;%20d_2n%7D%7Bd_1d_2%7D%5C%5C%5C%5C%20%5Cfrac%7Bn%7D%7Bd_1%7D%20%5Ccdot%20%5Cfrac%7Bm%7D%7Bd_2%7D%20%3D%20%5Cfrac%7Bnm%7D%7Bd_1d_2%7D)
 
 ### Exploration
 
