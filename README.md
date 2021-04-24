@@ -49,7 +49,7 @@ Then, write two classes:
     ```
     <author>
     <n> likes
-    <content>
+    <contents>
     ```
 
     where `<author>` is replaced by the author's name, `<n>` is replaced by
@@ -70,10 +70,10 @@ Then, write two classes:
   - `unrollThread` should return a string in the following format:
 
     ```
-    <replyTo content>
+    <replyTo contents>
     <author>
     <n> likes
-    <content>
+    <contents>
     ```
 
     where the bottom three parts are the same format as in `TextTweet`, and
@@ -210,3 +210,9 @@ to itself. Do you think this is possible on Twitter?
 
 7. Should the `unrollThread` method of `ReplyTweet` start with just the contents of the `replyTo` tweet, or the entire unrolled tweet?
 - It should contain the entire unrolled tweet, not just the `contents` field.
+
+8. In class `ReplyTweet`, should be field `replyTo` be a `TextTweet` object instead of a `Tweet`?
+
+9. replyTo field should be of type Tweet. Since TextTweet and ReplyTweet both implement the Tweet interface, TextTweet and ReplyTweet both have a shared type called Tweet. (Like for example in the class we saw CircleRegion and SquareRegion were both of type Region.)
+
+10. Having replyTo as a Tweet object helps us achieve the "thread" function, where you can reply to your's own Tweets repeatedly.
