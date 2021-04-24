@@ -212,7 +212,4 @@ to itself. Do you think this is possible on Twitter?
 - It should contain the entire unrolled tweet, not just the `contents` field.
 
 8. In class `ReplyTweet`, should be field `replyTo` be a `TextTweet` object instead of a `Tweet`?
-
-9. replyTo field should be of type Tweet. Since TextTweet and ReplyTweet both implement the Tweet interface, TextTweet and ReplyTweet both have a shared type called Tweet. (Like for example in the class we saw CircleRegion and SquareRegion were both of type Region.)
-
-10. Having replyTo as a Tweet object helps us achieve the "thread" function, where you can reply to your's own Tweets repeatedly.
+- replyTo field should be of type Tweet. Since TextTweet and ReplyTweet both implement the Tweet interface, TextTweet and ReplyTweet both have a shared type called Tweet. (Like for example in the class we saw CircleRegion and SquareRegion were both of type Region.). Having replyTo as a Tweet object helps us achieve the "thread" function, where you can reply to your's own Tweets repeatedly.
