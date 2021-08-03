@@ -1,5 +1,5 @@
 # CSE-11 Programming Assignment 4
-### Due Date: Sunday, July 11, 11:59PM Pacific Time
+### Due Date: Sunday, August 15, 11:59PM Pacific Time
 
 ## Learning Goals 
 - practice writing interfaces and classes
